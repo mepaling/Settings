@@ -1,9 +1,0 @@
-Ctrl + P:
-ext install python
-
-ext install vscode-icons
-File > Preferences > File Icon Theme > VSCode Icons.
-
-ext install cpptools
-
-ext install beautify
