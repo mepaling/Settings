@@ -8,7 +8,7 @@ ext install python
 
 ## Icons
 ```
-ext install vscode-icons\
+ext install vscode-icons
 File > Preferences > File Icon Theme > VSCode Icons.
 ```
 
