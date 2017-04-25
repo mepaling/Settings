@@ -26,3 +26,9 @@ ext install cpptools
 ext install beautify
 ext install vscode-chinese-translation
 ```
+
+## Terminal with Win10 bash
+in settings.json
+```json
+"terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe"
+```
