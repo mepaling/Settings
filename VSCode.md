@@ -5,7 +5,7 @@
 ```
 ext install python
 ```
-###Debugging with raw_input() / input() method:
+### Debugging with raw_input() / input() method:
 add the following setting to launch.json where name is "Python"
 ```json
 "console": "externalTerminal"
