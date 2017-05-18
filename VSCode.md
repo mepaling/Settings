@@ -1,5 +1,5 @@
 # Extension
-## ext Usage: Ctrl + P
+## How to install by ext: Ctrl+P
 
 ## Python
 ```
