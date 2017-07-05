@@ -1,6 +1,8 @@
 # Extension
-## How to install by ext: Ctrl+P
-
+## How to open ext
+```
+Ctrl+P
+```
 ## Python
 ```
 ext install python
