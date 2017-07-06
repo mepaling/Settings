@@ -22,11 +22,14 @@ File > Preferences > File Icon Theme > VSCode Icons.
 ```
 ext install cpptools
 ```
+### Use Code Runner to run the c/cpp code
+Make Sure you have add gcc/g++ to system environment variable  
 
 ## Others
 ```
 ext install beautify
 ext install vscode-chinese-translation
+ext install code-runner
 ```
 
 ## Terminal with Win10 bash
