@@ -23,7 +23,7 @@ File > Preferences > File Icon Theme > VSCode Icons.
 ext install cpptools
 ```
 ### Use Code Runner to run the c/cpp code
-Make Sure you have add gcc/g++ to system environment variable  
+Make Sure you have added gcc/g++ path to system environment variable  
 
 ## Others
 ```
